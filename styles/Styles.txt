@@ -1,0 +1,43 @@
+<html>
+<head> 
+    <title>Profil Pribadi</title>
+<body>
+    <table bgcolor=silver>
+	<tr>
+	   <td><img src="fotoku.jpeg" width"200"</td>
+	   <td>
+	   <center>
+	   <font size="30px">
+			<b>Profil</b>
+		</font>
+		</center>
+		 <table>
+		 <tr>
+			<td>Nama </td>
+			<td> : Duria Sangadji</td>
+		 </tr>
+		 <tr>
+			<td>Nim </td>
+			<td> : 195610111</td>
+		 </tr>
+		 <tr>
+			<td>Kampus  </td>
+			<td> : Universitas Teknologi Digital Indonesia</td>
+		 </tr>
+		 <tr>
+			<td>Kelas </td>
+			<td> : Sistem Informasi 2</td>
+		 </tr>
+		 <tr>
+			<td>Praktikum </td>
+			<td> : Teknologi Cloud</td>
+		 </tr>
+        </td>
+   </tr>
+   <tr>
+       <td colspan=3><marquee><behavior"altenate>Created by RIA</td>
+   </tr>
+   </table>
+</body>
+</head>
+<html>
